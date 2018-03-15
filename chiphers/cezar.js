@@ -1,3 +1,4 @@
+// Шифр цезаря
 
 // var alphbet = 'аАбБвВгГдДеЕёЁжЖзЗиИйЙкКлЛмМнНоОпПрРсСтТуУфФхХцЦчЧшШщЩьЬъЪыЫэЭюЮяЯ';
 // var alphbet = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
